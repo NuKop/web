@@ -1,0 +1,41 @@
+/*
+  Team peko: Aiden Li, Prettay Dey
+  IntroCS pd7 sec11
+  HW05 -- Stuylin'
+  2021-02-11
+*/
+
+/*
+structure of a CSS ruleset:
+SELECTOR { 0 or more DECLARATIONS }
+where each declaration is of the form
+PROPERTY : VALUE;
+ */
+
+/* this will style all h1 elements with color red */
+h1 {
+    color: red
+}
+
+/* this will style all h2 elements with color blue */
+h2 {
+    color: blue
+}
+
+/* this will make the page background black */
+h3 {
+	color: blue
+}
+body {
+    background-color: teal; /* bc dark mode 4 teh youngs */
+	
+}
+p {
+	color: white; /* bc black on a dark background */
+	font-family: Comic Sans MS, sans-serif; /*shame*/
+}
+ul {
+	color: white;
+	font-family: Comic Sans MS, sans-serif;
+}
+	
