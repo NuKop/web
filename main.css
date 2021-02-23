@@ -14,17 +14,19 @@ PROPERTY : VALUE;
 
 /* this will style all h1 elements with color red */
 h1 {
-    color: red
+    color: red;
+	text-shadow: 2px 2px 5px yellow;
+	
 }
 
 /* this will style all h2 elements with color blue */
 h2 {
-    color: blue
+    color: black
 }
 
 /* this will make the page background black */
 h3 {
-	color: blue
+	color: yellow
 }
 body {
     background-color: teal; /* bc dark mode 4 teh youngs */
@@ -33,9 +35,11 @@ body {
 p {
 	color: white; /* bc black on a dark background */
 	font-family: Comic Sans MS, sans-serif; /*shame*/
+	
 }
 ul {
 	color: white;
 	font-family: Comic Sans MS, sans-serif;
 }
+	
 	
