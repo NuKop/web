@@ -15,7 +15,7 @@ PROPERTY : VALUE;
 /* this will style all h1 elements with color red */
 h1 {
     color: red;
-	text-shadow: 2px 2px 5px yellow;
+    text-shadow: 2px 2px 5px yellow;
 	
 }
 
